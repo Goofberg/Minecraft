@@ -1,6 +1,6 @@
 const TexturelinkTemplate = "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/TEMPLATE.png"
 
-export function myFunction(texture, PosX, PosY, PosZ) {
+export function SolidBlockTemplate(texture, PosX, PosY, PosZ) {
     const modifiedLink = TexturelinkTemplate.replace("TEMPLATE", texture);
 
     const BlockCode = `
