@@ -1,0 +1,32 @@
+export const blockData = [
+    {
+        id: "minecraft:diamond_ore",
+        model: "SolidBlock",
+        face_front: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/diamond_ore.png",
+        face_back: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/diamond_ore.png",
+        face_left: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/diamond_ore.png",
+        face_right: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/diamond_ore.png",
+        face_top: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/diamond_ore.png",
+        face_bottom: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/diamond_ore.png",
+    },
+    {
+        id: "minecraft:stone",
+        model: "SolidBlock",
+        face_front: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/stone.png",
+        face_back: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/stone.png",
+        face_left: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/stone.png",
+        face_right: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/stone.png",
+        face_top: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/stone.png",
+        face_bottom: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/stone.png",
+    },
+    {
+        id: "minecraft:dirt",
+        model: "SolidBlock",
+        face_front: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/dirt.png",
+        face_back: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/dirt.png",
+        face_left: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/dirt.png",
+        face_right: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/dirt.png",
+        face_top: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/dirt.png",
+        face_bottom: "https://raw.githubusercontent.com/Goofberg/Minecraft/main/Textures/dirt.png",
+    },
+];
