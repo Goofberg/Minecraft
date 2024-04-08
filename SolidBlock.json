@@ -314,7 +314,7 @@
 			}
 		},
 		{
-			"name": "PivotPoint-Cont",
+			"name": "PivotPoint",
 			"from": [-0.5, 13.03035, -0.49954],
 			"to": [0.5, 14.03035, 0.50046],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13.5, 8]},
