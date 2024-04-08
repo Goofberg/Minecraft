@@ -316,7 +316,7 @@
 			"from": [-0.1875, 21.53035, -0.24954],
 			"to": [0.3125, 22.03035, 0.25046],
 			"rotation": {"angle": 0, "axis": "x", "origin": [0, 21.8375, 0]},
-			"color": 8,
+			"color": 4,
 			"faces": {
 				"north": {"uv": [0, 0, 1.5, 8], "texture": "#missing"},
 				"east": {"uv": [0, 0, 8, 1.5], "rotation": 90, "texture": "#missing"},
