@@ -298,6 +298,21 @@
 		},
 		{
 			"name": "PivotPoint",
+			"from": [-0.5, 13.03035, -0.49954],
+			"to": [0.5, 14.03035, 0.50046],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13.5, 8]},
+			"color": 4,
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 1], "texture": "#missing"},
+				"east": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#missing"},
+				"south": {"uv": [0, 0, 0.5, 1], "rotation": 180, "texture": "#missing"},
+				"west": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#missing"},
+				"up": {"uv": [0, 0, 0.5, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0.5, 1], "rotation": 180, "texture": "#missing"}
+			}
+		},
+		{
+			"name": "PivotPoint",
 			"from": [-0.1875, 21.53035, -0.24954],
 			"to": [0.3125, 22.03035, 0.25046],
 			"rotation": {"angle": 0, "axis": "x", "origin": [0, 21.8375, 0]},
@@ -453,21 +468,6 @@
 			}
 		},
 		{
-			"name": "PivotPoint",
-			"from": [-0.5, 13.03035, -0.49954],
-			"to": [0.5, 14.03035, 0.50046],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13.5, 8]},
-			"color": 4,
-			"faces": {
-				"north": {"uv": [0, 0, 0.5, 1], "texture": "#missing"},
-				"east": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#missing"},
-				"south": {"uv": [0, 0, 0.5, 1], "rotation": 180, "texture": "#missing"},
-				"west": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#missing"},
-				"up": {"uv": [0, 0, 0.5, 1], "texture": "#missing"},
-				"down": {"uv": [0, 0, 0.5, 1], "rotation": 180, "texture": "#missing"}
-			}
-		},
-		{
 			"from": [1.25, 12.5, -0.75],
 			"to": [1.5, 14.25, 0.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.5, 8]},
@@ -584,14 +584,14 @@
 									"nbt": "{}",
 									"children": [
 										20,
+										21,
 										{
 											"name": "Wrist",
 											"origin": [8, 13.5, 8],
 											"color": 0,
 											"nbt": "{}",
-											"children": [21, 22, 23, 24, 25, 26, 27]
+											"children": [22, 23, 24, 25, 26, 27, 28]
 										},
-										28,
 										29,
 										30,
 										31,
